@@ -14,6 +14,7 @@ Transcription from Korean to English
 ### 한글라이즈 (Hangulize)
 > https://github.com/hangulize/hangulize (신버전 : Go)
 > https://github.com/sublee/hangulize (구버전 : 파이썬)
+> https://hangulize.org/?lang=lat&word= (웹사이트)
 
 ### 관련 블로그
 세계의 말과 글
